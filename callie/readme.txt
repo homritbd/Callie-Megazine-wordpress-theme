@@ -1,6 +1,6 @@
 === callie ===
 
-Contributors: automattic
+Contributors: Sajid Imon
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
 
 Requires at least: 4.5
